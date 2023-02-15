@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="E:\TEST\Jenkins\WebApi_Jenkins_demo1\WebApi_Jenkins_demo1\obj\Release\netcoreapp3.1\win-x86\PubTmp\Out\" />
+</sitemanifest>
